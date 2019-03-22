@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - floor
+  - ramp
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ramp
+    uniqueID: 1767207999
+    locked: 0
+  - name: floor
+    uniqueID: 792406263
     locked: 0
